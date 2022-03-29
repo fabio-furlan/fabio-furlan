@@ -14,3 +14,5 @@
 </div><br/>
 
 ## Sou estudante apaixonado por Tecnologia!!!
+
+ ![Snake animation](https://github.com/fabio-furlan/fabio-furlan/blob/output/github-contribution-grid-snake.svg)
