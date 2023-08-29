@@ -13,6 +13,6 @@
 <img align="center" alt "html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-## 💻 Profissional que trilhou um caminho de transformação ao migrar da carreira administrativa para o mundo da tecnologia.
+## 💻 Profissional que migrou da carreira administrativa para o mundo da tecnologia.
 
 
